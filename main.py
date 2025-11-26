@@ -12,3 +12,5 @@ def balance_reaction(reaction): #"Fe2O3 + H2 -> Fe + H2O"
     coefficients = eu.my_solve(equations, coefficients) + [1]
 
     return coefficients # [1/3, 1, 2/3, 1]
+
+
