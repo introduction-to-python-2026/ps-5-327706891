@@ -1,6 +1,5 @@
 
 
-
 def split_before_uppercases(formula):
     pass  # replace the pass with your code
 
